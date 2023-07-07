@@ -1,3 +1,3 @@
 # odin-recipes
 OdinProject1
-This will be the basic recipes of HTML.
+This will be a recipe for a sirloin steak fried on a pan.

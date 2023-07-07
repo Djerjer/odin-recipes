@@ -1,6 +1,7 @@
 * {
     font-family: system-ui, sans-serif;
     line-height: 1.5;
+    width: 100%;
     background-color: #121212;
     color: #808080;
 }
@@ -73,6 +74,8 @@ hr {
     margin-top: 30px;
 }
 
+/* below is all code for button on index page*/
+
 button {
     --c: #686868; /* text color */
     
@@ -107,7 +110,7 @@ button {
     place-content: center;
     background: #121212
   }
-  
+
   button {
     font-family: system-ui, sans-serif;
     font-weight:bold;
